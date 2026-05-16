@@ -1,7 +1,6 @@
-- 👋 Hi, I’m Madhav Bansal
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on software engineer
+- 👋 Hi, I’m Madhav Bansal a Full Stack Web Developer
+- 👀 I’m interested in programming and Learning new Technolgies and Developing Software...
+- 🌱 Having Knowledge of HTML, CSS ,JS , Node.js, React.js,Express.js, MongoDB, C, Cpp and OOPs, DSA
 - 📫 How to reach me 
 
 <!---
